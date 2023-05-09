@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Contador de Beijos</title>
